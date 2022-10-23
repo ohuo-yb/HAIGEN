@@ -1,0 +1,17 @@
+h5py==3.1.0
+imageio==2.13.5
+numpy==1.19.5
+opencv-python==4.5.1.48
+pandas==1.2.0
+Pillow==9.0.0
+PyYAML==6.0
+scikit-image==0.17.2
+scikit-learn==0.24.0
+scipy==1.3.2
+seaborn==0.11.1
+six==1.15.0
+sklearn==0.0
+torch==1.7.1+cu110
+torchaudio==0.7.2
+torchvision==0.8.2+cu110
+tornado==6.1
